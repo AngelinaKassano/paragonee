@@ -27,10 +27,6 @@
                     {
                         pageLink: "/contact",
                         className: "Блоггерам"
-                    },
-                    {
-                        pageLink: "/content",
-                        className: "Вакансии"
                     }
                 ]
             }

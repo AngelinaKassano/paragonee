@@ -3542,7 +3542,7 @@ installComponents(component, {FooterWidgetTitle: __webpack_require__(12).default
 // ESM COMPAT FLAG
 __webpack_require__.r(__webpack_exports__);
 
-// CONCATENATED MODULE: ./node_modules/babel-loader/lib??ref--2-0!./node_modules/vue-loader/lib/loaders/templateLoader.js??ref--6!./node_modules/@nuxt/components/dist/loader.js??ref--0-0!./node_modules/vue-loader/lib??vue-loader-options!./components/Footer/FooterMenuList.vue?vue&type=template&id=59f888e8
+// CONCATENATED MODULE: ./node_modules/babel-loader/lib??ref--2-0!./node_modules/vue-loader/lib/loaders/templateLoader.js??ref--6!./node_modules/@nuxt/components/dist/loader.js??ref--0-0!./node_modules/vue-loader/lib??vue-loader-options!./components/Footer/FooterMenuList.vue?vue&type=template&id=970ab260
 var render = function render() {
   var _vm = this,
     _c = _vm._self._c;
@@ -3563,7 +3563,7 @@ var render = function render() {
 };
 var staticRenderFns = [];
 
-// CONCATENATED MODULE: ./components/Footer/FooterMenuList.vue?vue&type=template&id=59f888e8
+// CONCATENATED MODULE: ./components/Footer/FooterMenuList.vue?vue&type=template&id=970ab260
 
 // CONCATENATED MODULE: ./node_modules/babel-loader/lib??ref--2-0!./node_modules/@nuxt/components/dist/loader.js??ref--0-0!./node_modules/vue-loader/lib??vue-loader-options!./components/Footer/FooterMenuList.vue?vue&type=script&lang=js
 /* harmony default export */ var FooterMenuListvue_type_script_lang_js = ({
@@ -3579,9 +3579,6 @@ var staticRenderFns = [];
       }, {
         pageLink: "/contact",
         className: "Блоггерам"
-      }, {
-        pageLink: "/content",
-        className: "Вакансии"
       }]
     };
   }
