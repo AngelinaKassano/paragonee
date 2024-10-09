@@ -1,0 +1,26 @@
+
+[
+    {
+        "slug": "1",
+        "date": "20 January 2022",
+        "title": "Wartales is serious making an army of hogs",
+        "imgSrc": "/images/blog/blog1.webp",
+        "imgLarge": "/images/blog/blog-sticky.webp",
+        "blogGrid": "/images/blog/blog-grid-1.webp",
+        "tag": "Gamer",
+        "slugTag": "Gamer"
+        
+    },
+    {
+        "slug": "2",
+        "date": "12 Сентября 2024",
+        "title": "Страница нашей игры доступна в Steam.",
+        "imgSrc": "/images/blog/blog2.webp",
+        "imgLarge": "/images/blog/blog-sticky.webp",
+        "blogGrid": "/images/blog/blog-grid-2.webp",
+        "tag": "Adventure",
+        "slugTag": "Adventure"
+        
+    }
+    
+]

@@ -1,0 +1,134 @@
+{
+  "AboutUs": {
+    "description": "Auto imported from components/AboutUs.vue"
+  },
+  "AllGames": {
+    "description": "Auto imported from components/AllGames.vue"
+  },
+  "AllPlayers": {
+    "description": "Auto imported from components/AllPlayers.vue"
+  },
+  "BlogPost": {
+    "description": "Auto imported from components/BlogPost.vue"
+  },
+  "Breadcrumb": {
+    "description": "Auto imported from components/Breadcrumb.vue"
+  },
+  "ContactBanner": {
+    "description": "Auto imported from components/ContactBanner.vue"
+  },
+  "ContactDetails": {
+    "description": "Auto imported from components/ContactDetails.vue"
+  },
+  "ContactForm": {
+    "description": "Auto imported from components/ContactForm.vue"
+  },
+  "CounterUp": {
+    "description": "Auto imported from components/CounterUp.vue"
+  },
+  "FaqAccordion": {
+    "description": "Auto imported from components/FaqAccordion.vue"
+  },
+  "Footer": {
+    "description": "Auto imported from components/Footer.vue"
+  },
+  "GamerTeam": {
+    "description": "Auto imported from components/GamerTeam.vue"
+  },
+  "GamingWorld": {
+    "description": "Auto imported from components/GamingWorld.vue"
+  },
+  "GoogleMaps": {
+    "description": "Auto imported from components/GoogleMaps.vue"
+  },
+  "HeaderSection": {
+    "description": "Auto imported from components/HeaderSection.vue"
+  },
+  "HeroBanner": {
+    "description": "Auto imported from components/HeroBanner.vue"
+  },
+  "LiveStream": {
+    "description": "Auto imported from components/LiveStream.vue"
+  },
+  "NuxtError": {
+    "description": "Auto imported from components/NuxtError.vue"
+  },
+  "SignUp": {
+    "description": "Auto imported from components/SignUp.vue"
+  },
+  "Testimonial": {
+    "description": "Auto imported from components/Testimonial.vue"
+  },
+  "UpcomingMatches": {
+    "description": "Auto imported from components/UpcomingMatches.vue"
+  },
+  "UpcomingMatchesHome": {
+    "description": "Auto imported from components/UpcomingMatchesHome.vue"
+  },
+  "Blog": {
+    "description": "Auto imported from components/Blog/2.vue"
+  },
+  "BlogGrid": {
+    "description": "Auto imported from components/Blog/BlogGrid.vue"
+  },
+  "BlogList": {
+    "description": "Auto imported from components/Blog/BlogList.vue"
+  },
+  "BlogListDynamic": {
+    "description": "Auto imported from components/Blog/BlogListDynamic.vue"
+  },
+  "BlogListinDetails": {
+    "description": "Auto imported from components/Blog/BlogListinDetails.vue"
+  },
+  "BlogSidebar": {
+    "description": "Auto imported from components/Blog/BlogSidebar.vue"
+  },
+  "ButtonPrimaryButton": {
+    "description": "Auto imported from components/Button/PrimaryButton.vue"
+  },
+  "ButtonSignupButton": {
+    "description": "Auto imported from components/Button/SignupButton.vue"
+  },
+  "FooterContactInfoWidget": {
+    "description": "Auto imported from components/Footer/FooterContactInfoWidget.vue"
+  },
+  "FooterInfoWidget": {
+    "description": "Auto imported from components/Footer/FooterInfoWidget.vue"
+  },
+  "FooterMenuList": {
+    "description": "Auto imported from components/Footer/FooterMenuList.vue"
+  },
+  "FooterWidgetTitle": {
+    "description": "Auto imported from components/Footer/FooterWidgetTitle.vue"
+  },
+  "FooterWinnerWidget": {
+    "description": "Auto imported from components/Footer/FooterWinnerWidget.vue"
+  },
+  "GamesGameDetails": {
+    "description": "Auto imported from components/Games/GameDetails.vue"
+  },
+  "GamesPopularGame": {
+    "description": "Auto imported from components/Games/PopularGame.vue"
+  },
+  "HeaderLogo": {
+    "description": "Auto imported from components/Header/HeaderLogo.vue"
+  },
+  "HeaderMainMenu": {
+    "description": "Auto imported from components/Header/MainMenu.vue"
+  },
+  "HeaderMobileNavigation": {
+    "description": "Auto imported from components/Header/MobileNavigation.vue"
+  },
+  "HeaderOffCanvasMobileMenu": {
+    "description": "Auto imported from components/Header/OffCanvasMobileMenu.vue"
+  },
+  "MatchesMatchDetails": {
+    "description": "Auto imported from components/Matches/MatchDetails.vue"
+  },
+  "PlayersTeamPlayer": {
+    "description": "Auto imported from components/Players/TeamPlayer.vue"
+  },
+  "TitleSection": {
+    "description": "Auto imported from components/Title/TitleSection.vue"
+  }
+}

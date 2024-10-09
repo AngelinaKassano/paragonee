@@ -1,0 +1,144 @@
+[
+  {
+    "name": "404Error",
+    "path": "/404Error",
+    "component": "D:\\\\bonxxx\\\\pages\\\\404Error.vue",
+    "chunkName": "pages/404Error",
+    "_name": "_e3909f2e"
+  },
+  {
+    "name": "about",
+    "path": "/about",
+    "component": "D:\\\\bonxxx\\\\pages\\\\about.vue",
+    "chunkName": "pages/about",
+    "_name": "_90b1adb8"
+  },
+  {
+    "name": "blog",
+    "path": "/blog",
+    "component": "D:\\\\bonxxx\\\\pages\\\\blog.vue",
+    "chunkName": "pages/blog",
+    "children": [
+      {
+        "name": "blog-11",
+        "path": "11",
+        "component": "D:\\\\bonxxx\\\\pages\\\\blog\\\\11.vue",
+        "chunkName": "pages/blog/11",
+        "_name": "_2584880a"
+      },
+      {
+        "name": "blog-slug",
+        "path": ":slug?",
+        "component": "D:\\\\bonxxx\\\\pages\\\\blog\\\\_slug.vue",
+        "chunkName": "pages/blog/_slug",
+        "_name": "_3ca102ff"
+      }
+    ],
+    "_name": "_5f06984a"
+  },
+  {
+    "name": "blog-grid-left-sidebar",
+    "path": "/blog-grid-left-sidebar",
+    "component": "D:\\\\bonxxx\\\\pages\\\\blog-grid-left-sidebar.vue",
+    "chunkName": "pages/blog-grid-left-sidebar",
+    "_name": "_603d634b"
+  },
+  {
+    "name": "blog-grid-right-sidebar",
+    "path": "/blog-grid-right-sidebar",
+    "component": "D:\\\\bonxxx\\\\pages\\\\blog-grid-right-sidebar.vue",
+    "chunkName": "pages/blog-grid-right-sidebar",
+    "_name": "_3629e946"
+  },
+  {
+    "name": "blog-grid-without-sidebar",
+    "path": "/blog-grid-without-sidebar",
+    "component": "D:\\\\bonxxx\\\\pages\\\\blog-grid-without-sidebar.vue",
+    "chunkName": "pages/blog-grid-without-sidebar",
+    "_name": "_9db49d9c"
+  },
+  {
+    "name": "blog-left-sidebar",
+    "path": "/blog-left-sidebar",
+    "component": "D:\\\\bonxxx\\\\pages\\\\blog-left-sidebar.vue",
+    "chunkName": "pages/blog-left-sidebar",
+    "_name": "_c2de0e10"
+  },
+  {
+    "name": "blog-right-sidebar",
+    "path": "/blog-right-sidebar",
+    "component": "D:\\\\bonxxx\\\\pages\\\\blog-right-sidebar.vue",
+    "chunkName": "pages/blog-right-sidebar",
+    "_name": "_7b6ded8e"
+  },
+  {
+    "name": "contact",
+    "path": "/contact",
+    "component": "D:\\\\bonxxx\\\\pages\\\\contact.vue",
+    "chunkName": "pages/contact",
+    "_name": "_6cfe4477"
+  },
+  {
+    "name": "FAQ",
+    "path": "/FAQ",
+    "component": "D:\\\\bonxxx\\\\pages\\\\FAQ.vue",
+    "chunkName": "pages/FAQ",
+    "_name": "_1bb58bcd"
+  },
+  {
+    "name": "game",
+    "path": "/game",
+    "component": "D:\\\\bonxxx\\\\pages\\\\game\\\\index.vue",
+    "chunkName": "pages/game/index",
+    "_name": "_5eafb5f7"
+  },
+  {
+    "name": "match",
+    "path": "/match",
+    "component": "D:\\\\bonxxx\\\\pages\\\\match\\\\index.vue",
+    "chunkName": "pages/match/index",
+    "_name": "_4529dcb4"
+  },
+  {
+    "name": "player",
+    "path": "/player",
+    "component": "D:\\\\bonxxx\\\\pages\\\\player\\\\index.vue",
+    "chunkName": "pages/player/index",
+    "_name": "_7f1577e8"
+  },
+  {
+    "name": "signup",
+    "path": "/signup",
+    "component": "D:\\\\bonxxx\\\\pages\\\\signup.vue",
+    "chunkName": "pages/signup",
+    "_name": "_67afb3de"
+  },
+  {
+    "name": "index",
+    "path": "/",
+    "component": "D:\\\\bonxxx\\\\pages\\\\index.vue",
+    "chunkName": "pages/index",
+    "_name": "_5141f82e"
+  },
+  {
+    "name": "game-slug",
+    "path": "/game/:slug",
+    "component": "D:\\\\bonxxx\\\\pages\\\\game\\\\_slug.vue",
+    "chunkName": "pages/game/_slug",
+    "_name": "_5cf914af"
+  },
+  {
+    "name": "match-slug",
+    "path": "/match/:slug",
+    "component": "D:\\\\bonxxx\\\\pages\\\\match\\\\_slug.vue",
+    "chunkName": "pages/match/_slug",
+    "_name": "_48971f44"
+  },
+  {
+    "name": "player-slug",
+    "path": "/player/:slug",
+    "component": "D:\\\\bonxxx\\\\pages\\\\player\\\\_slug.vue",
+    "chunkName": "pages/player/_slug",
+    "_name": "_7d5ed6a0"
+  }
+]

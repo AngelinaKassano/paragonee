@@ -1,0 +1,21 @@
+[
+    
+    {
+        
+        "teamOne": "/images/others/upcoming-game-thumb3.webp",
+        "teamVs": "/images/others/game-vs2.webp",
+        "teamTwo": "/images/others/upcoming-game-thumb4.webp",
+        "title": "Страница игры в Steam",
+        "description": "Стала доступна страница нашей игры на площадке Steam",
+        "playBtn": "/images/others/play-btn2.webp",
+        "playAlt": "Gaming BG",
+        "src": "https://www.youtube.com/embed/eS9Qm4AOOBY",
+        "autoplay": true,
+        "slug": "2",
+        "videoShapeBg": "/images/others/text-mini-shape.webp",
+        "gamingBg": "/images/bg/gaming-bg1.webp",
+        "gamingAlt": "Gaming BG",
+        "playBtnOne": "/images/others/play-btn.webp",
+        "shapeTitle": "Watch Live Streaming 2 "
+    }
+]
